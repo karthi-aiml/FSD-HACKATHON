@@ -1,0 +1,35 @@
+{
+  "tables": [
+    {
+      "name": "sales",
+      "columns": [
+        {"name": "sale_id", "type": "int"},
+        {"name": "region", "type": "varchar"},
+        {"name": "amount", "type": "float"},
+        {"name": "date", "type": "date"},
+        {"name": "customer_id", "type": "int"},
+        {"name": "product_id", "type": "int"}
+      ]
+    },
+    {
+      "name": "employees",
+      "columns": [
+        {"name": "emp_id", "type": "int"},
+        {"name": "name", "type": "varchar"},
+        {"name": "region", "type": "varchar"},
+        {"name": "salary", "type": "float"},
+        {"name": "hire_date", "type": "date"}
+      ]
+    },
+    {
+      "name": "customers",
+      "columns": [
+        {"name": "customer_id", "type": "int"},
+        {"name": "name", "type": "varchar"},
+        {"name": "email", "type": "varchar"},
+        {"name": "region", "type": "varchar"},
+        {"name": "join_date", "type": "date"}
+      ]
+    }
+  ]
+}

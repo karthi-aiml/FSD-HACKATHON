@@ -1,0 +1,39 @@
+{
+  "customers": [
+    {
+      "customer_id": 1,
+      "name": "Johny",
+      "email": "johny@gmail.com",
+      "region": "North",
+      "join_date": "2022-06-01"
+    },
+    {
+      "customer_id": 2,
+      "name": "Lilly",
+      "email": "lilly@gmail.com",
+      "region": "South",
+      "join_date": "2023-01-01"
+    },
+    {
+      "customer_id": 3,
+      "name": "James",
+      "email": "james@gmail.com",
+      "region": "East",
+      "join_date": "2021-11-15"
+    },
+    {
+      "customer_id": 4,
+      "name": "Timmy",
+      "email": "timmy@gmail.com",
+      "region": "West",
+      "join_date": "2023-03-01"
+    },
+    {
+      "customer_id": 5,
+      "name": "Tom Cruise",
+      "email": "tomcruise@gmail.com",
+      "region": "North",
+      "join_date": "2023-05-01"
+    }
+  ]
+}
